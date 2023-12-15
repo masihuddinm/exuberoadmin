@@ -87,11 +87,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "e22bde2d42e7308a4e7da972018ae179
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "79a902ad2cd709c68a1cf090203681a8",
-"/": "79a902ad2cd709c68a1cf090203681a8",
-"main.dart.js": "d5e9540a8704e6612984191f7d27849c",
+"index.html": "7b667d01cc0adf6c5016689e8c7663ad",
+"/": "7b667d01cc0adf6c5016689e8c7663ad",
+"main.dart.js": "e7262d501527739e7f0cb74954528ad7",
 "manifest.json": "c12c1c19fc4d33c678344e8fa0c2e4ee",
-"material_detail_display.html": "a5f8fcb01dd6774cb0d4cabf80deb50d",
+"material_detail_display.html": "b8ba76566465a8fae54c889c725d1158",
 "PTFE%20-BRONZE%206000%20BZ%20v01.19.pdf": "bea5a9e5ab50fd4d50b0b76d2f75fb88",
 "version.json": "2c0143d5be5c269dadf8de5569963078"};
 // The application shell files that are downloaded before a service worker can
